@@ -455,7 +455,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/rdoyle99/communitymentions-plugin.git",
-        "sha": "7fe930c649fd36ae97678d50486a11ed4b44e186"
+        "sha": "8a994fa36e98a66577db1fe8d1a1aef01c49fe9e"
       },
       "homepage": "https://communitymentions.com",
       "keywords": ["subreddits", "reddit marketing", "which subreddits", "ai search", "reddit ai citations"],
